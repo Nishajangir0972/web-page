@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main nav.navbar.navbar-expand-lg {
+    /* margin: -6px; */
+    padding-left: 150px;
+}
+.main div#navbarSupportedContent {
+    padding-left: -19px;
+    padding-right: 70px;
+}
+
+ .main nav.navbar.navbar-expand-lg {
+    background-color: black;
+    /* color: white; */
+}
+ .main a.navbar-brand {
+    font-size: 26px;
+    color: white;
+}
+a.nav-link {
+    color: white;
+    margin: 10px 0;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    /* margin: 20px; */
+    width: 100%;
+    background-color: darkslateblue;
+}
+.content img{
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+.text{
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text button{
+    height: 30px;
+    width: 130px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.text2{
+    /* border-bottom: 1px solid black; */
+    height: 300px;
+    width: 100%;
+    /* margin-bottom: 60px; */
+}
+.text2 h2{
+    text-align: center;
+    margin-top: 30px;
+    /* margin-left: 497px; */
+}
+.code{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.img{
+    margin-bottom: 30px;
+}
+.third{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(215 232 242);
+}
+.third h2{
+    text-align: center;
+     padding-top: 20px;
+}
+.box{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    border-radius: 20px;
+}
+/* .box p{
+    padding: 15px;
+} */
+.box img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.box #name{
+    color: red;
+}
+.section{
+    text-align: center;
+    margin-top: 40px;
+}
+.card {
+    border-radius: 20px;
+}
+.pre{
+    margin-top: 50px;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.section-2{
+    position: relative;
+    margin-top: 30px;
+    height: 690px;
+    width: 100%;
+    background-color: hsl(37.14deg 46.67% 91.18%);
+}
+
+.sec h2{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(14 220 140);
+    border-radius: 50%;
+}
+.three {
+    color: white;
+    text-align: center;
+    padding: 7px;
+    border-radius: 22px;
+    height: 110px;
+    width: 350px;
+    background-color: rgb(14 220 140);
+}
+.start {
+    position: absolute;
+    top: 554px;
+    left: 74px;
+    height: 187px;
+    /* color: white; */
+    width: 310px;
+    padding: 10px 15px 10px 11px;
+    text-align: center;
+    background-color: white;
+}
+.start button {
+    width: 115px;
+    height: 34px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(14 220 140);
+}
+.section-3{
+
+    height: 400px;
+    width: 100%;
+    background-color: darkslateblue;
+}
+.image-box{
+    height: 300px;
+    width: 300px;
+}
+.image-box img{
+    height: 100%;
+    width: 100%;
+}
+.section-4 {
+    margin-top: 94px;
+    color: white;
+}
+.section-4 button{
+    border: none;
+    border-radius: 30px;
+    background-color: yellow;
+    /* color: white; */
+    padding: 10px 25px 10px 25px;
+}
+.section-5{
+    background-color: rgb(0 20 39);
+    height: 190px;
+    width: 100%;
+}
+.section-5-text h3{
+    text-align: center;
+    color: yellow;
+}
+.section-5-img img{
+    height: 60px;
+    width: 150px;
+    /* margin: auto; */
+}
+.section-6{
+    background-color: rgb(77 40 59);
+    height: 400px;
+    width: 100%;
+        text-align: center;
+        margin-top: 40px;
+    
+}
+.section-6 h3{
+    padding-top: 20px;
+    color: white;
+}
+.section-7{
+    height: 100px;
+    width: 100%;
+    background-color: cornsilk;
+}
+.section-8{
+    background:linear-gradient(rgba(0, 0, 0, 0.354),rgba(0, 0, 0, 0.304),rgba(0, 0, 0, 0.32)),url("https://www.itl.cat/pngfile/big/303-3031921_pink-rose-hd-wallpaper.jpg");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+
+}
+.sectionn{
+    text-align: center;
+    color: white;
+}
+.sectionn button{
+    border: none;
+    background-color: yellow;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
+@media screen and(min-width:320px) and (max-width:570px){
+   
+    
+}
